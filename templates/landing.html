@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="hero-section">
+    <h1>Welcome to Fitness Tracker</h1>
+    <p>Track your activities and meet your fitness goals.</p>
+    <a href="{{ url_for('login') }}" class="cta-button">Get Started</a>
+</div>
+
+<div class="features-section">
+    <h2>Features</h2>
+    <div class="features-item">Track Activities</div>
+    <div class="features-item">Set Goals</div>
+    <div class="features-item">View Progress</div>
+</div>
+
+<div class="testimonials-section">
+    <h2>What Our Users Say</h2>
+    <div class="testimonial-item">"Great app for keeping track of workouts!" - Ahmed</div>
+    <div class="testimonial-item">"Helped me stay on track with my fitness goals." - Anass</div>
+</div>
+
+{% endblock %}
