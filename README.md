@@ -2,6 +2,10 @@
 
 The Fitness Tracking App is a web application built with Flask that allows users to track their fitness activities and progress towards their fitness goals.
 
+## Inspiration Behind the Fitness Tracking App
+
+Inspired by the transformative journey of a close friend who overcame health challenges through diligent fitness tracking and goal setting, I was motivated to create the Fitness Tracking App. Witnessing their struggle to find an all-in-one solution that was both user-friendly and comprehensive, I saw an opportunity to make a difference. This app embodies the essence of that journey, providing a tool to help others achieve their fitness aspirations with the same clarity and success.
+
 ## Features
 
 - **Activity Tracking:** Users can log their daily activities including type, duration, and distance.
